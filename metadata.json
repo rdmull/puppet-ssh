@@ -1,0 +1,15 @@
+{
+  "name": "rmullery-ssh",
+  "version": "0.1.0",
+  "author": "Richard Mullery <rmullery44@gmail.com>",
+  "summary": "This Module is an SSH Manager",
+  "license": "Apache-2.0",
+  "source": "https://github.com/rdmull/puppet-ssh",
+  "project_page": "https://github.com/rdmull/puppet-ssh",
+  "issues_url": "https://github.com/rdmull/puppet-ssh/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
